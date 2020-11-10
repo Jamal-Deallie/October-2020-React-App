@@ -1,10 +1,10 @@
 import React from 'react';
-import Splashpage from './components/Splashpage'
+import Main from './components/MainComponent';
 
 
 export default function App() {
   
   return (
-    <Splashpage/>
+    <Main/>
   );
 }
